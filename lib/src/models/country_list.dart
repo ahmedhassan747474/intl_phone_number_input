@@ -44,6 +44,37 @@ class Countries {
 
   static List<Map<String, dynamic>> _countryList = [
     {
+      "num_code": "444",
+      "alpha_2_code": "Ti",
+      "alpha_3_code": "Tib",
+      "en_short_name": "Tibet",
+      "nationality": "Tibet",
+      "dial_code": "+89",
+      "nameTranslations": {
+        "sk": "Tibet",
+        "se": "Tibet ",
+        "pl": "Tibet",
+        "no": "Tibet",
+        "ja": "Tibet",
+        "it": "Tibet",
+        "zh": "Tibet",
+        "nl": "Tibet",
+        "de": "Tibet",
+        "fr": "Tibet",
+        "es": "Tibet",
+        "en": "Tibet",
+        "pt_BR": "Tibet",
+        "sr-Cyrl": "Tibet",
+        "sr-Latn": "Tibet",
+        "zh_TW": "Tibet",
+        "tr": "Tibet",
+        "ro": "Tibet",
+        "ar": "Tibet",
+        "fa": "Tibet",
+        "yue": "Tibet"
+      }
+    },
+    {
       "num_code": "4",
       "alpha_2_code": "AF",
       "alpha_3_code": "AFG",
